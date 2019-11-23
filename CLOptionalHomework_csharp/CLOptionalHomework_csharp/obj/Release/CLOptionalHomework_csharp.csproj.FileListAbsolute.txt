@@ -1,0 +1,10 @@
+D:\An1Sem1\cl\OptionalHomework\CLOptionalHomework_csharp\CLOptionalHomework_csharp\bin\Release\CLOptionalHomework_csharp.exe.config
+D:\An1Sem1\cl\OptionalHomework\CLOptionalHomework_csharp\CLOptionalHomework_csharp\bin\Release\CLOptionalHomework_csharp.exe
+D:\An1Sem1\cl\OptionalHomework\CLOptionalHomework_csharp\CLOptionalHomework_csharp\bin\Release\CLOptionalHomework_csharp.pdb
+D:\An1Sem1\cl\OptionalHomework\CLOptionalHomework_csharp\CLOptionalHomework_csharp\obj\Release\CLOptionalHomework_csharp.csprojAssemblyReference.cache
+D:\An1Sem1\cl\OptionalHomework\CLOptionalHomework_csharp\CLOptionalHomework_csharp\obj\Release\CLOptionalHomework_csharp.Form1.resources
+D:\An1Sem1\cl\OptionalHomework\CLOptionalHomework_csharp\CLOptionalHomework_csharp\obj\Release\CLOptionalHomework_csharp.Properties.Resources.resources
+D:\An1Sem1\cl\OptionalHomework\CLOptionalHomework_csharp\CLOptionalHomework_csharp\obj\Release\CLOptionalHomework_csharp.csproj.GenerateResource.cache
+D:\An1Sem1\cl\OptionalHomework\CLOptionalHomework_csharp\CLOptionalHomework_csharp\obj\Release\CLOptionalHomework_csharp.csproj.CoreCompileInputs.cache
+D:\An1Sem1\cl\OptionalHomework\CLOptionalHomework_csharp\CLOptionalHomework_csharp\obj\Release\CLOptionalHomework_csharp.exe
+D:\An1Sem1\cl\OptionalHomework\CLOptionalHomework_csharp\CLOptionalHomework_csharp\obj\Release\CLOptionalHomework_csharp.pdb
